@@ -4,159 +4,139 @@
     "image": "https://img.dummyapi.io/photo-1564694202779-bc908c327862.jpg",
     "likes": 43,
     "tags": ["animal", "dog", "golden retriever"],
-    "text": "adult Labrador retriever",
-    "publishDate": "2020-05-24T14:53:17.598Z"
+    "text": "adult Labrador retriever"
   },
   {
     "id": "60d21b4967d0d8992e610c90",
     "image": "https://img.dummyapi.io/photo-1510414696678-2415ad8474aa.jpg",
     "likes": 31,
     "tags": ["snow", "ice", "mountain"],
-    "text": "ice caves in the wild landscape photo of ice near ...",
-    "publishDate": "2020-05-24T07:44:17.738Z"
+    "text": "ice caves in the wild landscape photo of ice near ..."
   },
   {
     "id": "60d21b8667d0d8992e610d3f",
     "image": "https://img.dummyapi.io/photo-1515376721779-7db6951da88d.jpg",
     "likes": 16,
     "tags": ["dog", "pet", "canine"],
-    "text": "@adventure.yuki frozen grass short-coated black do...",
-    "publishDate": "2020-05-24T05:44:55.297Z"
+    "text": "@adventure.yuki frozen grass short-coated black do..."
   },
   {
     "id": "60d21b3a67d0d8992e610c60",
     "image": "https://img.dummyapi.io/photo-1581804928342-4e3405e39c91.jpg",
     "likes": 7,
     "tags": ["canine", "pet", "mammal"],
-    "text": "Hiking with my dog in the woods. black labrador re...",
-    "publishDate": "2020-05-23T22:56:11.424Z"
+    "text": "Hiking with my dog in the woods. black labrador re..."
   },
   {
     "id": "60d21bf967d0d8992e610e9b",
     "image": "https://img.dummyapi.io/photo-1574457547512-5b1646994eea.jpg",
     "likes": 28,
     "tags": ["dog", "human", "animal"],
-    "text": "Two boys hug their dogs in a leaf pile in the fall...",
-    "publishDate": "2020-05-23T18:52:32.613Z"
+    "text": "Two boys hug their dogs in a leaf pile in the fall..."
   },
   {
     "id": "60d21b7d67d0d8992e610d25",
     "image": "https://img.dummyapi.io/photo-1498534928137-473daa67f5c4.jpg",
     "likes": 18,
     "tags": ["dog", "animal", "pet"],
-    "text": "Bone salt and pepper schnauzer puppy",
-    "publishDate": "2020-05-23T14:42:22.808Z"
+    "text": "Bone salt and pepper schnauzer puppy"
   },
   {
     "id": "60d21bd767d0d8992e610e31",
     "image": "https://img.dummyapi.io/photo-1576707064479-3139e7e8aace.jpg",
     "likes": 19,
     "tags": ["animal", "canine", "dog"],
-    "text": "Sleeping dogs lie two dogs lying on black file",
-    "publishDate": "2020-05-23T12:55:22.576Z"
+    "text": "Sleeping dogs lie two dogs lying on black file"
   },
   {
     "id": "60d21baa67d0d8992e610da7",
     "image": "https://img.dummyapi.io/photo-1500879747858-bb1845b61beb.jpg",
     "likes": 242,
     "tags": ["dog", "animal", "golden retriever"],
-    "text": "Dog in a forest at sunset dog in forest with sun r...",
-    "publishDate": "2020-05-22T22:27:12.912Z"
+    "text": "Dog in a forest at sunset dog in forest with sun r..."
   },
   {
     "id": "60d21af967d0d8992e610ba1",
     "image": "https://img.dummyapi.io/photo-1568572933382-74d440642117.jpg",
     "likes": 79,
     "tags": ["dog", "animal", "husky"],
-    "text": "black and white Husky",
-    "publishDate": "2020-05-22T20:05:03.653Z"
+    "text": "black and white Husky"
   },
   {
     "id": "60d21aeb67d0d8992e610b79",
     "image": "https://img.dummyapi.io/photo-1579562243430-4732bcb09d91.jpg",
     "likes": 17,
     "tags": ["dog", "pet", "animal"],
-    "text": "Milo durmiendo después de un largo día de jugar en...",
-    "publishDate": "2020-05-22T07:50:38.093Z"
+    "text": "Milo durmiendo después de un largo día de jugar en..."
   },
   {
     "id": "60d21bad67d0d8992e610daf",
     "image": "https://img.dummyapi.io/photo-1568480541687-16c2f73eea4c.jpg",
     "likes": 12,
     "tags": ["dog", "beach", "shoreline"],
-    "text": "Gratitude short-coated tan dog on seashore",
-    "publishDate": "2020-05-22T06:33:02.593Z"
+    "text": "Gratitude short-coated tan dog on seashore"
   },
   {
     "id": "60d21bee67d0d8992e610e79",
     "image": "https://img.dummyapi.io/photo-1517884467367-ac2e21e46d0b.jpg",
     "likes": 43,
     "tags": ["pet", "canine", "grey"],
-    "text": "@adventure.yuki peekaboo adult short-coated black ...",
-    "publishDate": "2020-05-22T03:10:54.820Z"
+    "text": "@adventure.yuki peekaboo adult short-coated black ..."
   },
   {
     "id": "60d21bd267d0d8992e610e21",
     "image": "https://img.dummyapi.io/photo-1548658146-f142deadf8f7.jpg",
     "likes": 92,
     "tags": ["dog", "grey", "puppy"],
-    "text": "front view of black and white puppy sitting on bro...",
-    "publishDate": "2020-05-21T22:15:26.266Z"
+    "text": "front view of black and white puppy sitting on bro..."
   },
   {
     "id": "60d21b1a67d0d8992e610c05",
     "image": "https://img.dummyapi.io/photo-1535008652995-e95986556e32.jpg",
     "likes": 15,
     "tags": ["human", "ocean", "nature"],
-    "text": "Random man walking with his dogs man and dogs on t...",
-    "publishDate": "2020-05-21T15:53:26.275Z"
+    "text": "Random man walking with his dogs man and dogs on t..."
   },
   {
     "id": "60d21be267d0d8992e610e52",
     "image": "https://img.dummyapi.io/photo-1580734075803-ac9cdb54fb03.jpg",
     "likes": 3,
     "tags": ["dog", "canine", "animal"],
-    "text": "Majestic looking dog on a lake white and brown sho...",
-    "publishDate": "2020-05-21T15:15:02.703Z"
+    "text": "Majestic looking dog on a lake white and brown sho..."
   },
   {
     "id": "60d21b3667d0d8992e610c56",
     "image": "https://img.dummyapi.io/photo-1558556249-076e42967a24.jpg",
     "likes": 27,
     "tags": ["dog", "animal", "canine"],
-    "text": "two puppies next to each other",
-    "publishDate": "2020-05-21T07:03:58.248Z"
+    "text": "two puppies next to each other"
   },
   {
     "id": "60d21b0767d0d8992e610bcf",
     "image": "https://img.dummyapi.io/photo-1556526588-a0bd9b5a42c3.jpg",
     "likes": 54,
     "tags": ["canine", "dog", "pet"],
-    "text": "two white dogs",
-    "publishDate": "2020-05-21T02:10:33.421Z"
+    "text": "two white dogs"
   },
   {
     "id": "60d21afd67d0d8992e610bad",
     "image": "https://img.dummyapi.io/photo-1575495679620-2ff225c75d5a.jpg",
     "likes": 20,
     "tags": ["pet", "animal", "mammal"],
-    "text": "A picture of my golden doodle, Yogi Bear white dog",
-    "publishDate": "2020-05-20T21:49:33.321Z"
+    "text": "A picture of my golden doodle, Yogi Bear white dog"
   },
   {
     "id": "60d21b0467d0d8992e610bc5",
     "image": "https://img.dummyapi.io/photo-1549937334-e94f33e69787.jpg",
     "likes": 5,
     "tags": ["dog", "pet", "mammal"],
-    "text": "long-coated brown dog",
-    "publishDate": "2020-05-20T21:00:40.371Z"
+    "text": "long-coated brown dog"
   },
   {
     "id": "60d21bf367d0d8992e610e88",
     "image": "https://img.dummyapi.io/photo-1564849444446-f876dcef378e.jpg",
     "likes": 40,
     "tags": ["plant", "mammal", "pet"],
-    "text": "A feral cat short-fur gray and orange cat on green...",
-    "publishDate": "2020-05-20T18:51:23.478Z"
+    "text": "A feral cat short-fur gray and orange cat on green..."
   }
 ]

@@ -12,6 +12,7 @@ from mvc.models import Post
 # out.close()
 
 # Create your views here.
-def index(request):
+def home(request):
     post = Post.objects.all()
     return render(request, 'post.html', locals())
+

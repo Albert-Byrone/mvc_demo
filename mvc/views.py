@@ -1,4 +1,5 @@
 from pyexpat import model
+from urllib import response
 from django.shortcuts import redirect, render
 from django.http import HttpResponse
 from django.core import serializers
@@ -35,3 +36,8 @@ def add_post(request):
             form = PostForm()
     return render(request, 'index.html', {'form': form})
         
+def update(request):
+    print(request)
+    post_item = Post.objects.get(id=request.id)
+    print("========",post_item)
+    return response(post_item.json())
